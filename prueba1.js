@@ -1,3 +1,5 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 /* Escribe una función que, dado un número entero positivo, calcule la suma de todos los números naturales que son múltiplos de 3 o 5 y que sean menores que ese número.
 Sin embargo, si el número proporcionado es negativo o cero, la función debe devolver 0.
 Asegúrate de que si un número es múltiplo tanto de 3 como de 5, solo se cuente una vez en la suma.
@@ -7,11 +9,15 @@ function solution(number){
 //TU SOLUCIÓN AQUI
 }
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 /* Crea una función que tome una lista de números enteros y cadenas no negativos y genere una nueva
  lista que incluya solo las cadenas, excluyendo los números. */
  function filter_list(l) {
     //TU SOLUCIÓN AQUI
   }
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////  
 
 /*   Una oración que contiene todas las letras del alfabeto al menos una vez se conoce como un pangrama.
 Por ejemplo, la oración "El rápido zorro marrón salta sobre el perro perezoso" es un pangrama,
@@ -22,7 +28,10 @@ La tarea es crear una función que tome una cadena como entrada y determine si e
     //TU SOLUCIÓN AQUI
   }
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 //NO MODIFICAR
 module.exports = solution
 module.exports = filter_list
 module.exports = isPangram
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
