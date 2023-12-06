@@ -8,6 +8,7 @@ Por ejemplo, si el número proporcionado es 10, los múltiplos de 3 o 5 menores 
 function solution(number){
 //TU SOLUCIÓN AQUI
   console.log("Prueba");
+  alert("Prueba numero 2")
 }
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////

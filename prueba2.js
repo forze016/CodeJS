@@ -13,6 +13,7 @@ debes tratar las letras en mayúsculas y minúsculas como idénticas. */
 
 function duplicateEncode(word){
     // TU SOLUCIÓN AQUI
+    console.log("sa2");
 }
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////
